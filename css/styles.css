@@ -1,0 +1,290 @@
+/*=================
+		Header
+===================*/
+
+nav li,
+footer li {
+	display: inline;
+	margin:0;
+
+}
+
+.navleft {
+ background-color: #667173;
+ padding: 0 1em;
+}
+
+.navright {
+	margin-top: 2.125em;
+	padding: 0 1em;
+	background-color: #667173;
+	font-size: 1.275em;
+}
+
+nav {
+	text-align: center;
+	
+}
+
+nav li {
+	display: inline;
+	
+	
+}
+
+nav a {
+	color: black;
+}
+
+nav a:hover{
+	color: white;
+}
+
+header{
+
+	
+}
+/*div.contain-to-grid,
+nav.top-bar,
+nav ul li a {
+	background-color: darkred;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+background: darkred;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+background-color: red;
+background:darkred;
+}
+
+.top-bar-section ul li > a {
+color: white;
+background-color: darkred;
+}*/
+
+/*==================
+		Font
+====================*/
+
+h1 {
+	color: #6D90A6;
+	font-size: 2.5em;
+}
+
+h2 {
+	font-size: 1.75em;
+	background-color: 
+}
+
+.deck {
+	margin-top: -2em;
+	margin-bottom: 2em;
+	padding-left:.75em;
+	padding-bottom: .75em;
+	color: white;
+	padding-right: -10em;
+}
+
+h1.top {
+	padding-left:.25em;
+	color: white;
+}
+
+.top {
+	background-color: #3C4F4E;
+}
+
+.deck2 {
+	
+	margin-bottom: .175em;
+	padding-left:.75em;
+	color: white;
+	padding-right: -10em;
+	
+	background-color: #DFD6AB;
+}
+
+h4.deck {
+	margin-bottom: 0;
+	margin-top: 3em;
+}
+
+p {
+	color: #4D4C4B;
+}
+
+section p,
+footer li {
+	color: black;
+}
+
+/*==================
+		Body
+====================*/
+
+body {
+	background: url('../img/swirl_pattern.png');
+}
+
+
+/*
+article div {
+	margin: 1em 0 0 0;
+}
+
+div {
+	
+	background-color: #f0ecdd;
+
+} */
+
+img, 
+object {
+max-width: 100%;
+padding: 1.5em 0 0 0;
+}
+
+article {
+	max-width: 100%;
+}
+
+/*img {
+	margin: 2em 0;
+}*/
+
+li {
+	color: black;
+	list-style: none;
+}
+
+.part1,
+.part6
+ {
+	background-color: white;
+	margin-bottom: .75em;
+	padding: .5em;
+
+}
+
+.part2,
+.part3,
+.part4 {
+	margin: 1em;
+	padding: 1em;
+}
+
+.part2 {
+	background-color: #DFD6AB;
+}
+
+.part3 {
+	background-color: #DFD6AB;
+	margin: 1em 0 1em 5em;
+}
+
+.part4 {
+	background-color: #DFD6AB;
+}
+
+.part7{
+	padding: 1em;
+	background-color: white;
+}
+
+.partimg {
+	background-color: white;
+	border-radius: 50%;
+	margin-top: 2em;
+} 
+
+.aside {
+	border-left: .125em #83917F solid;
+	margin-bottom: 2em;
+}
+
+/*=====================
+	Contact
+=======================*/
+
+/*#gmap {
+	height: 425px;
+	width: 450px;
+	margin: 3em;
+}
+
+.info {
+	padding-top: 3em;
+}*/
+
+/*==================
+		Images
+====================*/
+
+img {
+
+}
+
+/*==================
+		Accordion
+====================*/
+
+.accordion {
+	margin: 1em 0;
+}
+
+.content::after {
+	content : ".";
+  display : block;
+  height : 0;
+  clear : both;
+  visibility : hidden;
+}
+
+#acco {
+	background: #DBE8E3;
+}
+
+/*==================
+		Buttons
+====================*/
+
+button {
+	background: #3C4F4E;
+}
+
+a.medium.round.button {
+	background: #3C4F4E;
+}
+
+a.medium.round.button:hover {
+	background: #9E413C;
+}
+
+/*==================
+		Footer
+====================*/
+
+footer {
+	border-top: .125em #83917F solid;
+	padding-top: .5em;
+	width: 100%;
+	background-color:;
+
+}
+
+footer li {
+	font-size: .5em;
+	padding: 0 1em;
+}
+
+footer a {
+	font-size: 1.5em;
+	color: black;
+}
+
+footer a:hover {
+	color: #9E413C;
+}
+
