@@ -128,18 +128,6 @@ body {
 	background: url('../img/swirl_pattern.png');
 }
 
-
-/*
-article div {
-	margin: 1em 0 0 0;
-}
-
-div {
-	
-	background-color: #f0ecdd;
-
-} */
-
 img, 
 object {
 max-width: 100%;
@@ -287,4 +275,6 @@ footer a {
 footer a:hover {
 	color: #9E413C;
 }
+
+
 
