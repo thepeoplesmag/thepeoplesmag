@@ -15,13 +15,14 @@ footer li {
 }
 
 .navright {
-	margin-top: 2.125em;
+	margin-top:1em;
 	padding: 0 1em;
 	background-color: #667173;
 	font-size: 1.275em;
 }
 
 nav {
+	margin-top: 2em;
 	text-align: center;
 	
 }
@@ -44,25 +45,7 @@ header{
 
 	
 }
-/*div.contain-to-grid,
-nav.top-bar,
-nav ul li a {
-	background-color: darkred;
-}
 
-.top-bar-section li:not(.has-form) a:not(.button) {
-background: darkred;
-}
-
-.top-bar-section li:not(.has-form) a:not(.button):hover {
-background-color: red;
-background:darkred;
-}
-
-.top-bar-section ul li > a {
-color: white;
-background-color: darkred;
-}*/
 
 /*==================
 		Font
@@ -79,7 +62,7 @@ h2 {
 }
 
 .deck {
-	margin-top: -2em;
+	margin-top: -1em;
 	margin-bottom: 2em;
 	padding-left:.75em;
 	padding-bottom: .75em;
