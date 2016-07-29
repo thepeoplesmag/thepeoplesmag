@@ -1,0 +1,32 @@
+/******
+
+NAVIGATION
+
+*******/
+
+nav {
+
+	border-bottom: black 1px dotted;
+}
+
+nav li {
+	display:inline;
+}
+
+/*******
+
+LISTS
+
+********/
+
+ul {
+	list-style: none;
+	display:inline;
+	
+}
+
+/********
+
+BODY
+
+*********/
